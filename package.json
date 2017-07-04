@@ -1,0 +1,15 @@
+{
+  "name": "crp-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benweizhu/crp-workshop.git",
+  "author": "benweizhu <benweizhu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  },
+  "scripts": {
+    "server": "node server.js"
+  }
+}
